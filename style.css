@@ -20,7 +20,7 @@ header h1 {
   display: center;
   justify-content: center;
   margin-top: 20px;
-  margin-left: 180px
+  margin-left: auto;
 }
 
 .logo img {
